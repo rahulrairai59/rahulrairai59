@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Rai 👋
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frahulrairai59&labelColor=%23263759&countColor=%23d9e3f0&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frahulrairai59)
+![Profile Views](https://komarev.com/ghpvc/?username=rahulrairai59&color=blueviolet&style=for-the-badge)
 
 ## 🚀 About Me
 
@@ -40,8 +40,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulrairai59&theme=radical&hide_border=true&bg_color=0D1117)
 
 ## 🤝 Connect with Me
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahulrairai59&color=blueviolet&style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrairai59)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulrairai59)

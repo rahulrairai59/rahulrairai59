@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm learning and contributing to **CNCF projects**
+- 🌱 I'm learning and looking for opportunity to contribute to **CNCF projects**
 - 👯 I'm looking to collaborate on **Kubernetes**, **Go**, and **Cloud Native** projects
 - 💬 Ask me about **Linux**, **KVM**, **VMware**, **Apache CloudStack**, **Github Actions**, **Ansible**, **Puppet**, **Go**, **Kubernetes**, **DevOps**, and **Cloud Native** technologies
 - 📫 How to reach me: [Email](mailto:rahul.cncf@gmail.com)
